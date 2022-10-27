@@ -1,5 +1,4 @@
-# Python 3 program to make GCD
-# of array a multiple of k.
+
 def MinOperation(a, n, k):
 	
 	result = 0
